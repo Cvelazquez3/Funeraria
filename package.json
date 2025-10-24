@@ -1,0 +1,16 @@
+{
+  "name": "funeraria-frontend",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión Funeraria",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
